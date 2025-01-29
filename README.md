@@ -9,7 +9,7 @@
    - Current Dread Forum: ```g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion```
    - Dark Markets Forum: ```g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion/d/DarkNetMarkets```
    - Current Elysium Market: ```elysiumyeudtha62s4oaowwm7ifmnunz3khs4sllhvinphfm4nirfcqd.onion```
-6. Create a folder on your desktop called ```tor-shopping-list.txt``` and put a few fake (illicit) items in there
+6. Create a folder on your desktop called ```TOR SHOPPING LIST.txt``` and put a few fake (illicit) items in there
 7. Delete the file.
 
 ---
@@ -67,15 +67,15 @@ DeviceNetworkEvents
 
 // User shopping list was created and, changed, or deleted
 DeviceFileEvents
-| where FileName contains "shopping-list.txt"
+| where FileName contains "TOR SHOPPING LIST.txt"
 ```
 
 ---
 
 ## Created By:
-- **Author Name**: Josh Madakor
-- **Author Contact**: https://www.linkedin.com/in/joshmadakor/
-- **Date**: August 31, 2024
+- **Author Name**: Daryl Hawkins
+- **Author Contact**: https://www.linkedin.com/in/darylhawkins1/
+- **Date**: January 29, 2025
 
 ## Validated By:
 - **Reviewer Name**: 
@@ -92,4 +92,4 @@ DeviceFileEvents
 ## Revision History:
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `September  6, 2024`  | `Josh Madakor`   
+| 1.0         | Initial draft                  | `January 29, 2025`  | `Daryl Hawkins`   
